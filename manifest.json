@@ -1,0 +1,17 @@
+{
+  "name": "小鱼爱学习",
+  "short_name": "小鱼爱学习",
+  "description": "小鱼陪你每日学习打卡计划",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#D7ECF7",
+  "theme_color": "#D7ECF7",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
